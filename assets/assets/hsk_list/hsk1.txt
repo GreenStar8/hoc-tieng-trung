@@ -1,0 +1,150 @@
+的	的	de5	de	indicates possession, like adding 's to a noun	của (biểu thị sở hữu); trợ từ
+我	我	wo3	wǒ	I; me	tôi; tớ; mình
+你	你	ni3	nǐ	you (singular)	bạn; cậu; anh/chị (ngôi thứ hai số ít)
+是	是	shi4	shì	be; is; are; am	là
+了	了	le5	le	indicates a completed or finished action	rồi (biểu thị hành động đã hoàn thành)
+不	不	bu4	bù	no; not	không
+在	在	zai4	zài	at; on; in; indicates an action in progress	ở; tại; đang (làm gì)
+他	他	ta1	tā	he; him	anh ấy; ông ấy; cậu ấy
+我们	我們	wo3men5	wǒmen	we; us	chúng tôi; chúng ta
+好	好	hao3	hǎo	good	tốt; đẹp; ngon; được
+有	有	you3	yǒu	have	có
+这	這	zhe4	zhè	this	đây; này
+会	會	hui4	huì	know how to	biết (qua học tập); sẽ
+吗	嗎	ma5	ma	indicates a yes/no question (added to a statement)	không? (trợ từ tình thái cuối câu hỏi)
+什么	什麼	shen2me5	shénme	what? (replaces the noun to turn a statement into a question)	cái gì?
+说	說	shuo1	shuō	speak	nói
+她	她	ta1	tā	she	cô ấy; bà ấy; chị ấy
+想	想	xiang3	xiǎng	think; believe; suppose; would like to	muốn; nhớ; nghĩ
+一	一	yi1	yī	one; once; a	một
+很	很	hen3	hěn	very; quite	rất
+人	人	ren2	rén	person; man; people	người
+那	那	na4	nà	that; then	kia; đó; thế thì
+来	來	lai2	lái	come; arrive; ever since; next	đến; tới
+都	都	dou1	dōu	all; both	đều; tất cả
+个	個	ge5	ge	general measure word	cái / con / chiếc (lượng từ chung)
+能	能	neng2	néng	can; be able	có thể
+去	去	qu4	qù	go; to leave	đi
+和	和	he2	hé	and; with	và; với
+做	做	zuo4	zuò	do; make	làm
+上	上	shang4	shàng	above; up	trên; lên
+没有	沒有	mei2you3	méiyǒu	not have; there is not	không có
+看	看	kan4	kàn	see; look at; to watch	nhìn; xem; đọc
+怎么	怎麼	zen3me5	zěnme	how?	làm sao; thế nào?
+现在	現在	xian4zai4	xiànzài	now	bây giờ; hiện tại
+点	點	dian3	diǎn	a dot; a little; o'clock	giờ; chút ít; điểm
+呢	呢	ne5	ne	indicates a question; how about...?;	nhỉ; nhé; còn... thì sao?
+太	太	tai4	tài	too (much)	quá; lắm
+里	裡	li3	lǐ	inside; Chinese mile (~.5 km)	trong; bên trong
+听	聽	ting1	tīng	listen; hear	nghe
+谁	誰	shei2	shéi	who	ai
+多	多	duo1	duō	many	nhiều
+时候	時候	shi2hou5	shíhou	time	lúc; thời gian
+下	下	xia4	xià	fall; below	dưới; xuống
+谢谢	謝謝	xie4xie5	xièxie	thank you	cảm ơn
+先生	先生	xian1sheng5	xiānsheng	Mr.; Sir	ông; ngài; chồng
+喜欢	喜歡	xi3huan5	xǐhuan	to like	thích
+大	大	da4	dà, dài	big; large	to; lớn
+东西	東西	dong1xi5	dōngxi	things; stuff	đồ vật; thứ
+小	小	xiao3	xiǎo	small; young	nhỏ; bé
+叫	叫	jiao4	jiào	to be called	gọi; tên là
+爱	愛	ai4	ài	love	yêu
+年	年	nian2	nián	year	năm
+请	請	qing3	qǐng	please; invite; to treat someone to something	xin mời; mời; nhờ
+回	回	hui2	huí	to return; to reply; to go back	về; quay lại; hồi (lượng từ)
+工作	工作	gong1zuo4	gōngzuò	work; a job	làm việc; công việc
+钱	錢	qian2	qián	money; coin	tiền
+吃	吃	chi1	chī	eat	ăn
+开	開	kai1	kāi	to open; to start; to operate (a vehicle)	mở; lái (xe); bắt đầu
+家	家	jia1	jiā	family; home	nhà; gia đình
+哪	哪	na3	nǎa	which; how	nào; đâu
+朋友	朋友	peng2you5	péngyou	friend	bạn bè
+妈妈	媽媽	ma1ma5	māma	mom; mum	mẹ
+今天	今天	jin1tian1	jīntiān	today	hôm nay
+几	幾	ji3	jǐ	how many; several; a few	mấy; vài
+爸爸	爸爸	ba4ba5	bàba	Dad	bố; ba
+些	些	xie1	xiē	some; few; several	một số; một vài
+怎么样	怎麼樣	zen3me5yang4	zěnmeyàng	how about?; how is/was it?	thế nào; ra sao?
+对不起	對不起	dui4bu5qi3	duìbuqǐ	sorry	xin lỗi
+住	住	zhu4	zhù	to live; reside; to stop	trú ngụ; ở; sống tại
+三	三	san1	sān	three	ba (số 3)
+高兴	高興	gao1xing4	gāoxìng	happy; glad	vui vẻ; vui mừng
+买	買	mai3	mǎi	to buy	mua
+医生	醫生	yi1sheng1	yīshēng	doctor	bác sĩ
+哪儿	哪兒	na3r5	nǎr	where? (Beijing accent)	ở đâu?
+字	字	zi4	zì	letter; character	chữ; ký tự
+名字	名字	ming2zi5	míngzi	name	tên
+认识	認識	ren4shi5	rènshi	recognize; know (a person)	quen biết; nhận biết
+坐	坐	zuo4	zuò	sit	ngồi
+喝	喝	he1	hē	to drink	uống
+写	寫	xie3	xiě	to write; to compose	viết
+月	月	yue4	yuè	moon; month; flesh (radical)	tháng; mặt trăng
+号	號	hao4	hào	number; day of a month	ngày (mồng); số
+狗	狗	gou3	gǒu	dog	con chó
+岁	歲	sui4	suì	years old; age	tuổi
+看见	看見	kan4jian4	kànjiàn	see; catch sight of	nhìn thấy; trông thấy
+打电话	打電話	da3 dian4hua4	dǎ diànhuà	make a phone call	gọi điện thoại
+喂	喂	wei4	wèi	hello (on the phone)	alo (khi nghe máy)
+儿子	兒子	er2zi5	érzi	son	con trai
+漂亮	漂亮	piao4liang5	piàoliang	pretty; beautiful	xinh đẹp
+分钟	分鐘	fen1zhong1	fēnzhōng	minute; (measure word for time)	phút
+再见	再見	zai4jian4	zàijiàn	goodbye; see you later	tạm biệt
+本	本	ben3	běn	measure word for books	quyển; tập (lượng từ của sách)
+明天	明天	ming2tian1	míngtiān	tomorrow	ngày mai
+少	少	shao3	shǎo	few; little	ít
+多少	多少	duo1shao5	duōshao	how much?; how many?	bao nhiêu?
+块	塊	kuai4	kuài	lump; piece; sum of money	đồng (đơn vị tiền tệ); miếng; cục
+女儿	女兒	nv3'er2	nǚ'ér	daughter	con gái
+小姐	小姐	xiao3jie5	xiǎojie	young lady; miss; Ms.	cô gái; cô tiểu thư
+衣服	衣服	yi1fu5	yīfu	clothes	quần áo
+水	水	shui3	shuǐ	water	nước
+学校	學校	xue2xiao4	xuéxiào	school	trường học
+电影	電影	dian4ying3	diànyǐng	movie; film	phim điện ảnh
+书	書	shu1	shū	book; letter	sách
+四	四	si4	sì	four	bốn (số 4)
+五	五	wu3	wǔ	five	năm (số 5)
+医院	醫院	yi1yuan4	yīyuàn	hospital	bệnh viện
+没关系	沒關系	mei2 guan1xi5	méi guānxi	it doesn't matter; never mind	không có gì / không sao đâu
+飞机	飛機	fei1ji1	fēijī	airplane	máy bay
+二	二	er4	èr	two	hai (số 2)
+电视	電視	dian4shi4	diànshì	television; TV	tivi; truyền hình
+读	讀	du2	dú	to read; to study	đọc; học
+后面	后面	hou4mian5	hòumian	back; behind	phía sau; đằng sau
+昨天	昨天	zuo2tian1	zuótiān	yesterday	hôm qua
+睡觉	睡覺	shui4 jiao4	shuì jiào	to sleep; go to bed	ngủ
+六	六	liu4	liù	six	sáu (số 6)
+老师	老師	lao3shi1	lǎoshī	teacher	giáo viên; thầy cô giáo
+星期	星期	xing1qi1	xīngqī	week	tuần; thứ
+十	十	shi2	shí	ten	mười (số 10)
+猫	貓	mao1	māo	cat	con mèo
+电脑	電腦	dian4nao3	diànnǎo	computer	máy tính
+热	熱	re4	rè	heat; hot	nóng
+学生	學生	xue2sheng5	xuésheng	student	học sinh; sinh viên
+下午	下午	xia4wu3	xiàwǔ	afternoon	buổi chiều
+学习	學習	xue2xi2	xuéxí	learn; to study	học tập
+冷	冷	leng3	lěng	cold	lạnh
+不客气	不客氣	bu2 ke4qi5	bú kèqi	you're welcome; don't be polite	không có gì; đừng khách sáo
+前面	前面	qian2mian4	qiánmiàn	in front	phía trước; đằng trước
+八	八	ba1	bā	eight	tám (số 8)
+中国	中國	Zhong1guo2	Zhōngguó	China	Trung Quốc
+七	七	qi1	qī	seven	bảy (số 7)
+菜	菜	cai4	cài	dish (type of food); vegetables	món ăn; rau
+桌子	桌子	zhuo1zi5	zhuōzi	table; desk	cái bàn
+出租车	出租車	chu1zu1che1	chūzūchē	taxi; cab	xe taxi
+天气	天氣	tian1qi4	tiānqì	weather	thời tiết
+茶	茶	cha2	chá	tea	trà; chè
+九	九	jiu3	jiǔ	nine	chín (số 9)
+商店	商店	shang1dian4	shāngdiàn	shop; store	cửa hàng
+椅子	椅子	yi3zi5	yǐzi	chair	cái ghế
+同学	同學	tong2xue2	tóngxué	fellow student; schoolmate	bạn cùng học
+一点儿	一點兒	yi4dian3r5	yìdiǎnr	a bit; a few	một chút; một ít
+苹果	蘋果	ping2guo3	píngguǒ	apple	quả táo
+饭店	飯店	fan4dian4	fàndiàn	restaurant; hotel	nhà hàng; khách sạn
+中午	中午	zhong1wu3	zhōngwǔ	noon; midday	buổi trưa
+上午	上午	shang4wu3	shàngwǔ	late morning (before noon)	buổi sáng (trước 12h trưa)
+水果	水果	shui3guo3	shuǐguǒ	fruit	hoa quả; trái cây
+杯子	杯子	bei1zi5	bēizi	cup; glass	cái cốc; cái ly
+下雨	下雨	xia4yu3	xiàyǔ	to rain	trời mưa
+米饭	米飯	mi3fan4	mǐfàn	(cooked) rice	cơm (đã nấu chín)
+北京	北京	Bei3jing1	Běijīng	Beijing	Bắc Kinh
+汉语	漢語	Han4yu3	Hànyǔ	Chinese language	tiếng Trung / tiếng Hán
